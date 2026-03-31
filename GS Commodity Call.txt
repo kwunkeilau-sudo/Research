@@ -1,0 +1,544 @@
+96666338464
+
+00:00
+So that everybody comes so okay I think we can get started. Um so good afternoon everyone and good morning to where, wherever you are thank you for coming to Goldman Sachs expert call understanding operational risk and the, the outlook of middle east aluminum smelters my name is trina Chen, I'm the commodity analyst here based in Hong Kong today is a great pleasure actually to.
+
+00:25
+We have a speaker of um Xavier, Mr Xavier and by RO, who actually has been a former director of ega and zier had a 15 years of experience including decade of strategic and corporate development at uga, a very large smelters in the middle east so before we go into the details I.
+
+00:50
+To first welcome z to our to our calls and and to be able to speak with us today I'm going to do the disclaimer first and then we can go right into it. So this call is strictly for clients at Goldman Sachs only. This conversation is not intended for the media, and its off the record participants will be removed from the call if they cannot be properly identified. This call webcast is not for the purpose.
+
+01:15
+Of sharing were receiving non public or otherwise confidential information attendees are public side market participants who may not be, may not receive and should not request nonpublic or otherwise confidential information about theurs or securities about the market for securities, and during the call if you have questions, you can always type your question I think in the underlying the budget.
+
+01:40
+And where you can allow you to type the question, or you could always email me at trina do Chen at GS dot com, you could also raise your hand directly and then we can have the conversation that would be probably more favorable. So with that I think we can we can get started um welcome us zbair it's great to see you in the zoom um I understand you're actually calling us from.
+
+02:05
+By I guess before we talk about aluminum, tell us about the life around you, you know, how are things there? And we certainly hope that, you know, everything is safe around you.
+
+02:17
+Good afternoon and good afternoon everyone who is, who is listening. Thank you for joining. Um yes I'm based in Dubai, I've been based here for 15 years and usually it's an environment where everyone feels very safe and for the first time in a very long time at least.
+
+02:37
+This is somewhat in in jeopardy. Just before this call, the walls of my house just shook as there was the usual interception of Iranian drones from the defensive system of the UAE, something that is can be somewhat scary and as a consequence a lot of my fellow expatriates have actually.
+
+03:00
+At least temporarily left the region so we we are observing around us that a lot of people.Would prefer leaving and at least temporarily until this situation settles, which gives a very, very particular flavor to life around here and perhaps in the long term sort of reshuffles the cards about how.
+
+03:25
+Dubai, the united Arab Emirates and the broader GCC is a welcoming place for for expatriates, of course.The idea was that this, this was a safe place especially in a region, in a broader region that was less safe. So life is a bit specific at the moment and of course it has an impact on everyday life, but also on the oil and gas sector in which everyone talks a lot about, but also other industries such as the topic of today which is aluminum of course.
+
+03:56
+Yeah, yeah, you know the um, you know I that actually makes me, you know, extremely grateful that you you are able to come to this call in this kind of a situation. I mean I'm curious, are our water and power, everything is normal? Were you able to, are you able to walk on the street.
+
+04:15
+Absolutely the if.You know, I'm certainly not not particularly worried about drones getting through, certainly some drones have have gone through and we'll talk about the damage that was done to the aluminum plants but also sometimes on more, you know, residential areas and you know, life goes on as normal which is which is very strange, um.
+
+04:41
+For example, I play golf and I played golf over the weekend.Just as if, you know, it was normal yet it is not normal, so you, the UAE defensive system is, is good enough that people that are here continue living a normal life.
+
+04:58
+There has been no interruption or very rare interruptions of power, water.In fact, there was rain in in Dubai and the UAE last week and this has probably caused more disruption for power.
+
+05:16
+Then it award, of course, the united Arab Emirates is not a region where it rains a lot, so the infrastructure is not particularly ready. Perhaps you remember in 2024 there were some floods.
+
+05:28
+Because of heavy rains, so.It is life as usual only its not.嗯。Well, I certainly hope everything remains safe and certainly admire your your, you know, your courage in, you know, stay so resilient in that environment, but I guess my first questions and everyone wanted to ask and I think no one here actually knows, so we've heard about the two drawone that attack actually, uh, I think a week ago over the weekend, um, two smelters, I think it's ALBA.
+
+06:03
+The l tailla, that's the the tool to smelter under attack. It's very unfortunate. Um, would you share the size of those smelters and you know, what is actually the operational status that the asset of those two skelter if any color that you would know? Please share with us.
+
+06:25
+Yes, absolutely. On Saturday afternoon there were some some drone attacks on on two aluminum plants in the region, uh, certainly the two largest single sites that exist in the region, so, um.
+
+06:38
+Certainly aiming at the wider or the larger production bases in the region.So ALBA as you, you most likely know is, is the product is the aluminum plant of Bahrain. ALBA is about 1.6 million tons of capacity. I see you have a map here to, to help us read where these things are geographically.
+
+07:07
+And then the company I used to work for, Emirates global aluminum, is the production company of the united Arab Emirates. It has two sites formerly known as dubaal and em email and it's the sites called em email or previously called emalal, located in Abu Dhabi in the al tua area.
+
+07:29
+That was, that was it.It's the number two on this one, is that correct?Yeah, if you don't mind going full screen, perhaps we will all get a chance if you go control l that will help the the details about what everyone wants to know is you know, how much of the production is impacted at the moment as a result of these attacks.
+
+07:57
+And.Emirates global aluminum ega is not a publicly listed company, so we should not expect that they will publicly announce what the result of this damage is on the on production.
+
+08:14
+However, is very likely that the pot lines were hit.And therefore, there is likely some degree of pots that are frozen as a result of the interruption caused by the attack.
+
+08:33
+Now at the alta Wheeler site or emal is composed of three phases as part as far as metal is concerned, for context, there is.
+
+08:47
+Power now power assets there, there is an alumina refinery and there is a smelter as well as cast house and carbon plants.
+
+08:57
+And the metal part is composed of three phases and.One of those phases or hotline is likely to have been hit.And part of that line would be would be frozen at this time perhaps.
+
+09:19
+Which will affect of course, production in the immediate future, but also cause some meaningful complication as far as repair and restart is concerned, I think later on we will talk about.
+
+09:34
+Overall restart, but it is very possible that the magnitude of this attack is important as far as production is concerned.
+
+09:43
+Given that at least part of a line that is of a side that is made of three lines.Which produces about 1.4 million tons. It has been hit, so most likely a meaningful production reduction.
+
+10:00
+ALBA is likely to be a similar story, um, ALBA had already reduced its production voluntarily as a precaution as far as supply of raw material and supply of power is concerned.
+
+10:17
+And running on only on the more efficient more recent lines as a result so they also it's it's likely that it's it is a similar type of situation with.
+
+10:29
+Some, some putts that were hit and therefore some pots that could, could have frozen over the, over the weekend.So it just sounds like, uh, you know, the majority of the operation is probably being impacted and and very unlikely, you know, the production can be to stay as normal would that be the right understanding?
+
+10:52
+So I would not say that this is the majority of the the of the production just yet. Um, I think it's important to conceptualize how big the industry here in the GCC is for aluminum and your map is very helpful. Of course ega and the UAE the largest with 2.6 million tons, ALBA in Bahrain with 1.6.
+
+11:17
+And then add a smaller scale, perhaps catalum in Qatar, maddin in Saudi Arabia, and soohar in Oman. Together, you know, we're talking about 5.2 million tons. All GCC countries have their own government owned facility and there is also Iran.
+
+11:42
+You know that we don't talk about much that has an aluminum industry that is also dependent on imported raw material, we will talk about this of course and produces another perhaps 600000 tons so.
+
+11:56
+The GCC itself we talk often about as a percentage of global production, which is, you know, fairly modest, perhaps 7% of global production.
+
+12:08
+But really, as I'm sure most people listening know, the aluminum industry is really broken into China and the rest of the world, with China representing about 60% of the market.
+
+12:22
+And the GCC exports to.The world except for China, so about 40% of the total production and demand in in metal. So the GCC production is about 18% of that number. So if that were to be cut or at least partially, it would create and it is creating quite a shift in the market.
+
+12:51
+In quite a supply gap, especially for regions that are dependent on those imports, such as the us, of course, Europe, but also Japan, Thailand, Malaysia, etc.
+
+13:06
+And so to to to come back to your to your question, I think.The very good, the very good.Question here is to talk about how much is at risk right now? We believe that there is some production that has been that has been cut.
+
+13:27
+Mostly in in ALBA and catalun.As sort of voluntarily that were done before the weekend, with ALBA reducing by about 20% its production and catalum reducing it about 40%.
+
+13:45
+And that is certainly AA meaningful reduction.It's important to talk about which players are better in a better situation than others and who is working with who in order to solve the problems. Power supply remains for the central issue that each of those countries is handling, but there is overall cooperation as far as logistics.
+
+14:15
+Is concerned to try and inform, find a way to not only getting material in, but also material out through a way that doesn't do. 这是昨天那个的功，我们就今天要分两个，Perhaps to give you then some some numbers at do moment on an annual basis.
+
+14:40
+It's probably about 550000 tons of metal that were cut as a result of the voluntarily voluntary reduction in production, mostly by ALBA and catalum. After this weekend, it's probably gone up as a result of the hit on pga and Alabama.
+
+15:05
+So perhaps towards the 800 mark, which is of course very, very meaningful, and then there is the impact of the Iranian cuts which follow the same.
+
+15:20
+Probably have its own dynamic and I'm less familiar with, but all in all, the power supply for the uranium smelters is at risk.
+
+15:30
+Mi understand, so, um, that that's very, very helpful to to be able to quantify for, for us, um, would you be able to maybe describe a little bit more, you know, these smelters, you know, you said the power situation, so what are your kind of power supply looks like? Are they generating power themselves? Are they getting from the grid? Um, that's, you know, what are the status of their.
+
+15:55
+Power supply and of course and also alumina, um, you know other pet coke and the other and I think you were mentioning pitching, right? You know all these raw materials and kind of what you know are the transport situation, the inventory days looks like you maybe describe it to us. Thank you.
+
+16:15
+Thank you because this is exactly what the heart of the issues are at the moment, as far as being able to answer how much production is at risk or how much more production is at risk.
+
+16:29
+All of these, all of these aluminum smelters in the GCC follow the same logic.The region has gas, has excess energy and needs to develop its economy, so the idea of creating a full aluminum value chain.
+
+16:46
+Importing raw materials for most of them, we'll get into this and then exporting metal as after transforming it using this energy that we have in the region. That's the business model that's probably a business model that.
+
+17:02
+We knew was potentially at risk with some of the risks such as logistics, right, logistic risks.It is proving to to be the case, of course.
+
+17:13
+All of smelters have their own power supply, they own the power assets, those are gas turbines they buy gas from.The government or the bodies of the government and often it's at a really good price, of course with some degree of subsidies in order to create value in value chain, create jobs, bring people to the region, et cetera, at this moment there have been some degree of risks of course with.
+
+17:50
+Qatar gas supply, which is why the catalum with the aluminum plant there, have decided to voluntarily shut down some of the plan because of the risk of the gas supply creating a.
+
+18:05
+A power interruption which is catastrophic as far as a smelter is concerned, with frozen pots as a result, so of course, the Iranians have attacked the energy facilities of Qatar, and the risk here of power interruption is too great for the Qataris to consider running at full capacity.
+
+18:29
+It is not the case so much for other other facilities in the region, with most of them having so far not sustain major attacks that would put the gas supply at risk.
+
+18:44
+So.They may decide that the risk is too great to continue, just like Qatar has done so.However, at the moment there is no particular concern around gas supply for the others.
+
+18:59
+Now this may, um, you know, at any, at any time just like there were attacks on the on the smelters themselves over the weekend, if there were to be further attacks this time, more on either the gas, the gas facilities themselves to refineries or the pipelines transporting this gas to the smelters.
+
+19:24
+Then that may result in further voluntarily voluntary decrease in production as a as a measure of precaution. However, for other sites than Qatar it has not been the case.
+
+19:39
+Now could I, sorry, could I trouble you just pointing to which number, you know, Qatar smelter, which one should I look out of the 10 numbers here.
+
+19:51
+Apologies, I'm trying to zoom in yes and still learning number 10 number 10 got it. That's what I guess I'm here at points at 650000 tons of metal per year that has been reduced to 60% of its of its production at the moment.
+
+20:13
+Um, so, um, already a meaningful reduction and as far as power is concerned and the Iranians are going through a similar type of process.
+
+20:28
+Power facilities are usually a strategic targets in the world. Do you attack?And of course, this dismantles the industry, but also the grid and.
+
+20:40
+The government is likely to prioritize the grid which ultimately feeds, you know, hospitals and homes etc, rather than the industry. I think this is what's happening in Iran at the moment with their facilities have certainly being under attack.
+
+20:59
+And the government needs to choose.Whether what's to power and.As a matter of priority, of course, the aluminum industry is ah, come second to the rest of the war efforts and civilian life.
+
+21:14
+It may be the case also for those GCC states that may ultimately favor, you know, the rest of the grid as opposed to their aluminum facility now.
+
+21:28
+Grid connection is not particularly present for those sites with the exception of ega, that is, that is building this with the rest of the grid.
+
+21:40
+But as far as where do you distribute the gas, if the gas is the fuel that ultimately powers the cities, that's what's in the control of those states and.
+
+21:52
+Perhaps they will then choose to power the gas turbines that feed the grid rather than the gas turbines that fill the smelters.
+
+22:01
+That makes sense.I think we need to talk about logistics, yes? How's the other raw material? You know, the situation is it, you know, uh, worse or, you know, at a bigger risk than the power situation.
+
+22:16
+This is a fascinating topic as far as the logistics is concerned at the moment in the news, everyone of course, talks about oil and gas and how those ships cannot go through and export aluminum is in this region is very specific because it's a two way problem. It's about importing raw material in very large, larger volume.
+
+22:42
+S than the production itself.And most smelters of course depend on the imports of raw material, alumina and as well as coke and liquid pitch being the main ones. Now one exception to, to this equation is madden which is number nine here on the on the map.
+
+23:04
+And it's a smelter of Saudi Arabia and it has a fully integrated value chain as far as upstream is concerned, so there is.
+
+23:15
+Bauxites the ore that needs to be extracted to eventually get to aluminum. There is bauxite in Saudi Arabia. They also have a refinery to produce alumina, which then feeds this smelter.
+
+23:31
+So overall they are less dependent on.Aluminumport, in fact, they don't import alumina.They still import or buy at least coke and pitch we get to this.
+
+23:47
+All the others, unfortunately, are dependent on either both sites or aluminum.I talk about bux side here because ega has a refinery in the alta Wheeler site.
+
+24:00
+In normal times would import about 5 million tons of bauxite per year.And the rest of its balance is imported directly as alumina.
+
+24:12
+It's, um, in normal times this is quite a third party illumina demand for this GCC region, about 8 million tons per year.
+
+24:23
+And at the moment, the alumina ships usually come from western Australia, a bit from Vietnam as well.Indonesia in the past, they of course go through the strait of hormuz, it is no longer possible for them to do this, so we are seeing some optionality here or some different routes as far as the supply of alumina as well as other raw materials is concerned, and we see different teams.
+
+24:56
+You can see on the map that.So hard, which is number 11.There is actually a.Oriented what call the gulf of Oman or the Indian ocean so the ships don't need to go through hormuz, which is great news. Now the poor, the ports sustained some attacks from the Iranians, however, the flow has been relatively uninterrupted.
+
+25:26
+And the port there is quite busy and you'll understand why. So har of course continues operating normally and it is.呃The UAE or ega here is working most likely with soohar. The government to government relationships are very good between the UAE and Oman.
+
+25:47
+Um, there are roads of course, perhaps in the future there will be rail and so.Most likely ega is working with so hard to use their ports and to continue bringing material from there and exporting finished product.
+
+26:07
+From there as well, which of course creates a lot of constion in this s port because ega is is quite a large player. So you see here it's number eight and number two combined 2.6 million tons. Of course that's a lot of raw material to bring in.
+
+26:26
+Um, and if you look further west, however, it is, it is very far from from so hardr from the omani ports that look into the gulf of Oman and the Indian ocean.
+
+26:38
+And in general, Saudi Arabia is most likely supporting Bahrain. This government relationship is very strong. In fact, madden owns shares directly into ALBA. The two are working together very closely.
+
+26:56
+And most likely.Madden, ALBA and cataluma are working through the red sea and their ports in Jeddah.In order to bring material. And so it would be somewhere on the left of Saudi Arabia that the ports are used, that's Jeddah on the northwest of Saudi Arabia and that's an immense distance to cover because you have to cross Saudi Arabia from east to west, that's about 1500 kilometers.
+
+27:26
+M no matter how, you know, they there are substantial efforts I'm sure being given to this at the moment.However, this is ultimately going to become very challenging to supply to supply albar continuously.
+
+27:44
+Whether it's illumina, pet coke, or pitch.Um, so it's, it's of course going to create a deficit in supply of metal to the market. It's also leaving a lot of alumina.
+
+28:00
+Free in the market for perhaps others, including Indian or Chinese players, to be able to grab at a fairly decent price.
+
+28:11
+The other issues as far as supply is concerned is pet coke which is strange for such an oil producing regions such as the GCC, TED cookies is imported most of it from in fact a lot from China, other from Europe or as far sometimes even the United States and there is only.
+
+28:37
+So much smelter grade pet coke or CPC in the region.So Kuwait produces some, the UAE produces some, all of these smelters by CPC, in fact, ALBA has its own calci, or so they buy green petroleum coke or gpc.
+
+28:59
+In any case, there is only so much in this region, so if this goes on further, it needs to be of course transported by road, which in the case of the smelter on the west of the gulf, it creates large logistic issues.
+
+29:17
+And finally it.Is is used together with with cope to manufacture anodes, all of those smelters have their own anode plants.
+
+29:29
+It takes about 15% of pitch to make one anode, or an anode is composed of at least of about 15% of pitch.And.They all of these smelters um, by from almost the same suppliers and using the same shipping lines here the shipping is particularly important because liquid pitch, as its names indicates, is is shipped in a liquid form on a ship that uses a boiler.
+
+30:03
+And if that ship cannot sail through hormuz and deliver to each of those smelters individually.Then he needs to discharge somewhere, for example in soohar, and then it needs to be trucked.
+
+30:17
+Tracking the liquid pitch requires also a bit of a heating system or a boiler.To make it simple, some of the bitumen trucks that we see on the road, sometimes that's essentially how it's transported and that's okay for a 150 kilometers, which is okay from soohar to ega, from Oman to the UAE, but it's certainly too far.
+
+30:43
+To go to, to, to go to Qatar, Bahrain, Saudi Arabia and the liquid, the liquid pitch would essentially.Freeze and become solid, creating further issues for for those matters to the west.
+
+30:58
+I think this is AA very critical issue and those matters are going to have to be very creative to solve this problem, of course.
+
+31:09
+Buying a nodes altogether and transporting them on trucks from Oman or from Jeddah appears to be the solution, and creates an opportunity for exporters of ades such as India and China which are typically feed this region with with anodes.
+
+31:27
+So perhaps.Smelters will reduce their intake of coke and pitch.And majorly increased their intake of anodes in the, in the meanwhile.
+
+31:40
+That that makes sense you that looks extremely challenging. I guess I have very two very quick follow up question until we move to the next topic. Um, and it's very in depth and certainly the logic, you know, thanks for explanation. I think this map um you now I understand you know, where where why you say that there are some companies who might be in better position than than others.
+
+32:05
+You know other there I guess the GE just generally you know what is the cost of the transportation at this stage? Um you know, if you know let's say if you it looks like so hardr is the one that's probably more feasible if you transport in and out of the material from sohar, how much additional cost would you have to consider in adding to your luminance actually cause obviously price is good but they.
+
+32:30
+There is certain, I'm sure there are certain profitability consideration and for those, you know, longer distance, you know, you know, if they do it, um, you know, what is the kind of the cost impact I guess that's, I know this is as you speak, I, this, this question has come to my mind and then the other one I guess is are there enough trucks or enough roads actually to transport this? Exactly.
+
+32:56
+Now those are, those are very good questions and you see at the moment, um.The, the, even the, where the price of aluminum is and the price of raw material is.
+
+33:09
+Those matters are typically the among the most profitable on earth, so.Typically they, their margins are very considerate, this is all based on a relatively.
+
+33:25
+Attract the cost of energy for them.And.The cost of getting interrupted or not producing metal in this context is so immense compared to the logistic additional charges that.
+
+33:42
+Those smelters are going to do anything to keep that going. Now of course there is an additional cost that typically was was very optimized to give you an idea the two sites of VGA, jebel Ali and tawila which is number eight and number two on this map have their own almost dedicated port that is just.
+
+34:07
+At the back of the smelter.All the raw material comes in on conveyors and goeszen is distributed towards the pot lines. So all of that is very efficient. Of course it is no longer the case. Now you have to use other means of transport, most likely trucks.
+
+34:26
+And you're very right to ask about the availability of trucks, and I think this is, this is particularly critical for a country like the UAE that has about 10 million people living here, probably fewer now with the recent developments, but.
+
+34:43
+There is some degree of priority that needs to be given to things that are more essential as far as logistics is concerned. This region imports all of nearly all of its food and medicine.
+
+34:56
+And that of course has to be prioritized over aluminum, so all of the thes that are facing east in the gulf of Oman and that is the case for the UAE that has direct.
+
+35:12
+Access to that seat, just like so hardr, this is almost exclusively dedicated to, you know, the more essential and no, not particularly industrial goods.
+
+35:26
+And so that already usually comes in.Through the strait of hormuz that already allocates or takes some of the some of the trucks off the road.
+
+35:37
+And then, you know, these decisions need to be made at a very high level at probably at country level as far as where do we allocate trucks to which.
+
+35:49
+Industry to which plants, to which particular sector, a very strategic decisions that needs to be made and so far it appears aluminum is considered as very critical and the amount of drugs, the the amount of effort that goes into this and additional cost is is very meaningful.
+
+36:13
+Ultimately.Those costs are going to be swallowed by those matters. As far as ega is concerned, looking into Oman, there are roads there. It does create challenge to cross borders with this material which usually doesn't happen, but governments are working together to solve these matters but you can imagine that doing that from for example.
+
+36:40
+Qatar, where a truck would need to arrive in Oman, drive through the UAE into Saudi Arabia and then into Qatar is is complex, very long and it is ultimately going to create vast challenges. The cost is a very good idea, is a very good question.
+
+37:01
+And it certainly adds a lot of cost per ton, not only inbound but also outbound, and that is in the range, you know, if I had to give a number, about a few 0 dollars per ton, perhaps two to 300 dollars per ton.
+
+37:19
+As a vague estimate for, for someone like ega, as far as ALBA is concerned, it's, it's probably more than that and it's, there is the idea also of, of lag, the delays in production, the delays in shipping that are going to be caused as a result of this and will ultimately impact customers.
+
+37:42
+So two, three hundred us dollar estimate that's for any ton of raw materials or finished the goods per ton of goods, that's basically the roughly the cost that's right.
+
+37:53
+I understand, yeah, that's probably on the low end. Absolutely and ultimately it's going to be swallowed by, uh, you know, the the the production that the producers themselves and their margin, you know, um, yeah, I don't think this impacts the market altogether because the these these SMS are just to, um, too profitable to be to be to impact the rest of the market.
+
+38:18
+That it would stop producing.Yeah, but it's AI thought it was very important, you mentioned that, you know, for them it's ultimately very important to keep the operational going regardless of anything, because the restarting costs could be immensely much higher. So how long, you know, you know, that's really how the situation gets settled down, you know, if everything has to restart again, you know, of the 500000 ton or 800000 ton.
+
+38:46
+Suspended how long does it take typically to restart production and to deliver the aluminum back to the market?Yes, that's a that's a very good question and if it, I just want to add to this that there is the how long it's going to take to restart, but there is also the when it's going to restart.
+
+39:08
+Because obviously this there is going to be a decision at some point when things settle down.To read, to restart or not, to assess whether the situation is stable enough to go ahead because this is certainly not something that you do, you do one day to have to reverse the following week or the week after because it, it's very resource intensive and very costly.
+
+39:36
+For a controlled shutdown like Qatar initiated or an ALBA initiated a couple of weeks back.A restart is typically two to four months.
+
+39:47
+Is requires a lot of effort as far as usually contractors come in that are specialized in this, there is some experience in the region in a with these things, but it is quite unprecedented for a lot of these teams of operating these smelters.
+
+40:06
+When it's an uncontrolled shutdown like it happened at ega and ALBA over the weekend with the drone attacks and the POS freeze, then you're looking at a good six month, six to eight months to restart and it's incredibly costly as a well the.
+
+40:27
+The loss of production, of course, is very costly, especially with the lme levels that we're experiencing.Then the damage itself on the pots, so it is catastrophic to have what you call AP freeze when the metal which was produced at a very high temperature.
+
+40:46
+Is no longer in a pot that is powered by electricity, the temperature goes down and and the metal freezes or solidifies then the entire pot is compromised and needs to be broken essentially. Um so this is typically insured.
+
+41:05
+And of course, insurance doesn't apply in the context of, you know, a war or a terrorist attack, whatever you want to call it.
+
+41:12
+And if then if there is, so it needs to be replaced essentially and then there needs to be AA refill of these pots and then operations need to start again, there's probably been some damage to the power supply of these parts etc so incredibly costly is is the answer and very long to return.
+
+41:36
+From the moment that you decide, it is safe to return.So you can imagine that if you extrapolate that in the future, that that could be a very long time from now that these bots operate again normally.
+
+41:50
+Yeah, indeed you have to determine that's quite a good point, you have to determine the point that it's time to, to when actually to restarted aside from the restarting time and I know you talk a lot about you know the smelters, you know the you know, you talk about the suspended volume and you talk about some smelters is probably in better position in managing their op you know keeping operational.
+
+42:14
+Kind of continuity than others if you have to make an estimate out of, I think this is total about over 7 million tons of production so if the situation um let's say I hope not, but if the situation continues that you know in two months time, where do you think that this region will be able to sustainable produce me with all the effort that.
+
+42:40
+The smelter is actually working on.That's right. And look we all have our scenarios. I I personally have developed my own scenarios as far as this situation is concerned.
+
+42:56
+Ultimately I think some players like ALBA are at a very big risk, such in Qatar as well, so right in in normal times these GCC smelters produce 6 million tons I think right now.
+
+43:15
+Realally, after the attacks of the weekend, we probably at 5.2 million on an annual basis, of course.I think if this goes on for another while, I think ALBA would reduce further it's its production and so will catalum, getting us closer to perhaps 4.6 so removing another 600000 tons from the market again on an annual basis, annualized basis.
+
+43:42
+Right now this is, this is probably, as you said, a few perhaps four to eight weeks or something like two months away.If this goes further.
+
+43:55
+Then, you know, this is further, further strain on the system and most likely with further attacks as well if we are further into this war.
+
+44:05
+Without further attacks, even the logistical challenges, I think will constrain even more, ALBA even more.Catalum and will create some more logistical challenges and I think ultimately around perhaps 3.5 to 4 million tons, it will be the level of of production, could be the level of production for for the region, so.
+
+44:31
+You know, that's a long way away from 6 million tons and a major impact on the market for, especially for Europe, the us and and Japan.
+
+44:42
+A major softening in in alumina because there will be so much less demand in alumina from the smelters who just can't bring it to their front door, and of course aluminum price of course.
+
+44:58
+That's absolutely a very big number of thanks to z and I think there is a.呃There's a question I think we we sort of a discuss it, but I'll read it for you see if you could add more, could you please give the exact exact numbers of raw material that can be supplied through the alternative route and how much cannot be, um, so I think.
+
+45:25
+Maybe you could add a bit more color.是。So we, we talked about the soohar route, which is number 11 on the map.Most likely this is now supplying entirely for number 11 number eight, and number two as far as critical raw material is concerned, aluminum and then a combination of pet coke pitch andnode most likely.
+
+45:54
+And I.That's, you know, enough to supply those three smelters.Assuming that they run fully.The, I think the, the, the harder question here is as far as number 10 number one, and number nine.
+
+46:17
+Albert madden in catal.Who are most likely working through across Saudi Arabia and into the red sea.That was the plan until last weekend, when the Houthis a.
+
+46:33
+Which is a Iran supported plan of Yemen. Yemen is the country at the very south of this of the map, not part of the GCC.
+
+46:44
+Attacked Israel and, and started entering this war.They control ultimately the straight at the bottom of the red sea, which was the plan to supply those methods.
+
+46:57
+And if this is under further stress, just like the strait of hormuz.Then it's it is going to become even more challenging that what I described in order to get the raw materials in, but I don't think, uh, the jeda route for those three smelters, number one, number nine, and number 10.
+
+47:20
+Is enough to to supply. It's just too great a distance and too much material to carry over. I think about half is doable.
+
+47:34
+Assuming that the red sea is accessible.And so.Major, major challenge and this is why when I talk about if this goes on for another two months, I think ALBA and catthalum in particular will have to reduce further their production.
+
+47:56
+That's very, very clear. Um, I have actually two more questions and you know, that's the little bit of, you know, I guess outside the current, uh, smelter operation. So we understand, I think some of the Chinese companies, they have operations, they're setting up new plants in Saudi China, Chongqing as the example, I think setting up their first 500000 ton smelter.
+
+48:21
+In Saudi, I think with I, I'm not sure you, if you are aware, um, you know, what is do you is there any disruption for that kind of a greenfield if not that one specifically, I guess in the region, given the situation and I'm not sure if there's any other, you know, given the energy situation, it would be very natural to think about building more smelters here, has there been any additional expansion?
+
+48:46
+Plan in the region and how have they been impacted, you know, with the current situation.Thank you. This is a great question and it deserves some context. Um, so you would have seen that this region is of course very long on metal, on aluminum production and all of the local producers are very, at least before this war, are very bullish on having more aluminum production in the region. So all of these smelters have their own.
+
+49:20
+Expansion project, usually greenfield adding a line which is more of doing more of the same, right? Importing more alumina, getting more gas to produce more power, and exporting more metal.
+
+49:35
+UmWith this conflict.It reshuffles these cards altogether. There have been logistical challenges in recent times and there has been the question is this business model sustainable altogether? And I think the answer happened about a month ago and the answer is probably no so if these smelters want to expand, are they going to do this at home or should?
+
+50:04
+Look at doing that somewhere else perhaps, where ultimately they service customers such as North America, the us s, so ega, for example.
+
+50:16
+Has been looking to to build a smelter in the us for a very long time and it was looking to do so in Oklahoma along with century aluminum.
+
+50:26
+UmThe ALBA out of Bahrain has committed to buy dunkirk a French smelter to serve his customers out of their more and the the answer is probably, this conflict probably answers the question that they should probably invest abroad more.
+
+50:45
+As far as aluminum is concerned, so.Is the, the, the particular project that you referred to in Saudi is interesting because it is ultimately on the west coast of Saudi Arabia through the red sea, that it was planning to import its aluminum.
+
+51:06
+And.A week ago it was, oh, you see, we should absolutely diversify and not go on the g side, but more go on the red sea side.
+
+51:16
+But now income, theuthis and a threat on logistical, on logistics on this side as well.So.It is a problem because ultimately the alumina comes from the south, from from western Australia and not the Suez canal from the Mediterranean.
+
+51:32
+So.Right now, aluminum producers, all of them, including Saudis, are in a bit of a panic mode and need to resolve, need to focus on resolving the issues of, of logistics, of maintaining production, et cetera.
+
+51:48
+And I think when the dust settles, all of that is being reflected upon, there needs to be some kind of strategy refresh what is the direction for this industry altogether and.
+
+52:02
+Is, is, is it, does it make sense to invest further in the gulf as far as aluminum production is concerned? And the answer probably lies in how is this situation resolved ultimately.
+
+52:16
+If the end of this conflict.Completely removes the the risk of the strait of hormuz disruption.Or the same in the red sea, then the answer is can be yes, um, if there is a half result, like it's been the case for some of the American military campaigns in the past with not really removing this risk.
+
+52:40
+Then I think further investment in aluminum in the region is, is probably going to be paused until there is some better assurance that logistics are just secured.
+
+52:54
+That's absolutely very profound changes, I think, in terms of the business strategy.Absolutely, absolutely look key.When this and when this industry started the the idea was brilliant, there was excess energy and the need to develop new verticals of the economy, create jobs, these jobs of course that means buy houses, go to school, go to restaurants etc this has been a formidable vector of growth for the region.
+
+53:25
+With the the assumption that you can freely import raw material and freely export finished goods and logistical challenges, conflicts.
+
+53:38
+Carbon border adjustments, the, as well as levies or tariffs have gotten in the way of this in, in recent times and proven that.
+
+53:50
+Those businesses still made a lot of money, but.Have been on the verge of.Perhaps not being sustainable and this is the ultimate blow as far as as proving the case of this business not being particularly sustainable.
+
+54:06
+Or at least difficult, difficult to continue running.Yes, yes and we certainly hope there is a solution. And then my last question may very briefly sava, you could you know if you know anything about you know the status of the operation, you know for the region for steel, you know it does produce more than 10 million tons of steel. I believe in you know maybe even more and some iron ware. I think there ought to be wrong and also I think very importantly most.
+
+54:35
+Importantly a lot of a petrochemical business and operation in the region, I found that actually is having probably even deeper impact on the global basis even as far as we see here in in China. So would you describe kind of the current situation there? Maybe not, not as much as the details in aluminum but we want.
+
+54:57
+So in very similar fashion the, the there is a lot of stress for those industries that require to import raw material. That's the case for some of the steelmakers here who are required to import iron ore, that's the case for emerates steel based in Abu Dhabi. This ultimately they have similar challenges as the aluminum industry, so they go through.
+
+55:22
+Similar solutions taking alternative supply routes and it is still maintaining production with perhaps.Not as much stress as far as the power is concerned and the risk of pots freezing you have in aluminum.
+
+55:40
+The operations kind of continue with the the disruption of logistics as far as steel and GCC is concerned.You talked about petrochemicals and this certainly is very effective, of course, fertilizers, our school, you know, of course very impacted as well. Saudi Arabia has phosphate mines and exports a lot of phosphate, ultimately used as fertilizer and this is very concerning because the combined impact of.
+
+56:14
+More expensive oil and gas, more expensive aluminum and also perhaps less or more expensive fertilizers. Ultimately this is everyday life that is impacted and as far as inflation is concerned, so it is a very, very concerning times and the world realizes of course once again that this region is supplies very important things to to the world.
+
+56:40
+As far as everyday life is concerned.Understood um that's the extremely helpful, I think we're very much on time on the time one hour and and I just want to thank you again Xavier, for spending time with us and sharing this situation, you in the middle using all these important industry and we certainly hope there is going to be a solution, you know a settle down of the situation very soon but very very importantly a.
+
+57:09
+Stay safe. I hope you know always safe with you and your family um and hope to speak with you again is asking extremely insightful and excellent call. Thank you z.
+
+57:22
+Pleasure speaking with you today. Hopefully you found that insightful as I said and happy to talk again. Thank you very much for your time today.
+
+57:31
+Yes, thank you. We'll wrap up the call. Ah, thank you. Thanks everybody for attending. Goodbye, all the best.
